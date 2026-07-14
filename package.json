@@ -1,0 +1,25 @@
+{
+  "name": "the_og",
+  "version": "1.0.0",
+  "description": "A messaging app for fun",
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "test": "npm --prefix backend run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas-a-j/The_oG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shreyas-a-j/The_oG/issues"
+  },
+  "homepage": "https://github.com/Shreyas-a-j/The_oG#readme"
+}
